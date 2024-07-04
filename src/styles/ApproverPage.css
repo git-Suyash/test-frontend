@@ -1,0 +1,26 @@
+.grid-container-child{
+    max-width:350px;
+}
+
+.css-rr6tj2 {
+    max-width: 350px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .grid-container {
+       width: 100% !important;
+       align-items: center;
+       justify-content: center !important;
+    }
+
+    .css-c27iyg-MuiPaper-root-MuiCard-root{
+        min-width: 90vw !important;
+        
+    } 
+
+   /* for approver page */
+    .css-1o06yi8-MuiPaper-root-MuiCard-root{
+        min-width: 90vw !important;
+    }
+}
